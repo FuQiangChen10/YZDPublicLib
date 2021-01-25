@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E195856A503E4949C8515D4B690FAF7B"
-               BuildableName = "YZDPublicLib.framework"
+               BuildableName = "YZDPublicLib"
                BlueprintName = "YZDPublicLib"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
