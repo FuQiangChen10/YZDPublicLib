@@ -1,0 +1,6 @@
+framework module YZDPublicLib {
+  umbrella header "YZDPublicLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

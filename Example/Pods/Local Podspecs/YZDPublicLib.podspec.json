@@ -1,0 +1,22 @@
+{
+  "name": "YZDPublicLib",
+  "version": "0.1.0",
+  "summary": "A short description of YZDPublicLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FuQiangChen1010@163.com/YZDPublicLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FuQiangChen1010@163.com": "1226627806@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/FuQiangChen1010@163.com/YZDPublicLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YZDPublicLib/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YZDPublicLib (0.1.0)
+
+DEPENDENCIES:
+  - YZDPublicLib (from `../`)
+
+EXTERNAL SOURCES:
+  YZDPublicLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YZDPublicLib: 56fa3959121f8cb6883dacae9b4234daf6ae8c11
+
+PODFILE CHECKSUM: c1d593254fcae4dbca8e90c0f89558ef8119e5ff
+
+COCOAPODS: 1.10.1

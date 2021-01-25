@@ -1,0 +1,6 @@
+framework module Pods_YZDPublicLib_Tests {
+  umbrella header "Pods-YZDPublicLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
